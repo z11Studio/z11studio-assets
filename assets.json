@@ -13,5 +13,13 @@
     "url": "https://fab.com/s/f8d79410eaf1",
     "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/IK_Cover.png",
     "description": "Advanced IK interaction and inspection system"
+  },
+
+  {
+    "id": "death_01",
+    "name": "Modular Death & Respawn Framework",
+    "url": "https://fab.com/s/776c526d7135",
+    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/ModularDeath_Cover.png",
+    "description": "Flexible multiplayer-ready death and respawn framework"
   }
 ]
