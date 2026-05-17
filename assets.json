@@ -3,7 +3,15 @@
     "id": "ars_01",
     "name": "Active Ragdoll System – C++ Multiplayer Ready",
     "url": "https://fab.com/s/f1b23e28b786",
-    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/refs/heads/main/ARS_Cover.png",
+    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/ARS_Cover.png",
     "description": "Multiplayer ragdoll physics system"
+  },
+
+  {
+    "id": "ik_01",
+    "name": "Procedural IK-Based Item Pickup & Inspection System",
+    "url": "https://fab.com/s/f8d79410eaf1",
+    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/IK_Cover.png",
+    "description": "Advanced IK interaction and inspection system"
   }
 ]
