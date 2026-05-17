@@ -1,25 +1,50 @@
-[
-  {
-    "id": "ars_01",
-    "name": "Active Ragdoll System – C++ Multiplayer Ready",
-    "url": "https://fab.com/s/f1b23e28b786",
-    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/ARS_Cover.png",
-    "description": "Multiplayer ragdoll physics system"
+{
+  "meta": {
+    "youtube": "https://youtube.com/@z11studio",
+    "discord": "https://discord.gg/xxxxx",
+    "fab": "https://www.fab.com/sellers/Z11%20Studio",
+    "documentation": "https://docs.z11studio.dev"
   },
 
-  {
-    "id": "ik_01",
-    "name": "Procedural IK-Based Item Pickup & Inspection System",
-    "url": "https://fab.com/s/f8d79410eaf1",
-    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/IK_Cover.png",
-    "description": "Advanced IK interaction and inspection system"
-  },
+  "assets": [
+    {
+      "id": "ars_01",
+      "name": "Active Ragdoll System – C++ Multiplayer Ready",
+      "url": "https://fab.com/s/f1b23e28b786",
+      "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/ARS_Cover.png",
+      "description": "Multiplayer ragdoll physics system"
+    },
 
-  {
-    "id": "death_01",
-    "name": "Modular Death & Respawn Framework",
-    "url": "https://fab.com/s/776c526d7135",
-    "image": "https://raw.githubusercontent.com/z11Studio/z11studio-assets/main/ModularDeath_Cover.png",
-    "description": "Flexible multiplayer-ready death and respawn framework"
-  }
-]
+    {
+      "id": "ik_01",
+      "name": "Procedural IK-Based Item Pickup & Inspection System",
+      "url": "https://fab.com/s/f8d79410eaf1",
+      "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/IK_Cover.png",
+      "description": "Advanced IK interaction and inspection system"
+    },
+
+    {
+      "id": "death_01",
+      "name": "Modular Death & Respawn Framework",
+      "url": "https://fab.com/s/776c526d7135",
+      "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/ModularDeath_Cover.png",
+      "description": "Flexible multiplayer-ready death and respawn framework"
+    },
+
+    {
+      "id": "optitick_01",
+      "name": "OptiTick – Automatic Actor Performance Optimization",
+      "url": "https://fab.com/s/cf87d5ce420c",
+      "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/OptiTick_Cover.png",
+      "description": "Automatic performance optimization system for actors"
+    },
+
+    {
+      "id": "pickup_01",
+      "name": "Multiplayer Pickup, Carry & Grab System",
+      "url": "https://fab.com/s/eccd9508fc20",
+      "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/MultiplayerPickup_Cover.png",
+      "description": "Multiplayer interaction and carry system"
+    }
+  ]
+}
