@@ -37,14 +37,7 @@
       "url": "https://fab.com/s/cf87d5ce420c",
       "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/OptiTick_Cover.png",
       "description": "Automatic performance optimization system for actors"
-    },
-
-    {
-      "id": "pickup_01",
-      "name": "Multiplayer Pickup, Carry & Grab System",
-      "url": "https://fab.com/s/eccd9508fc20",
-      "image": "https://raw.githubusercontent.com/z11studio/z11studio-assets/main/MultiplayerPickup_Cover.png",
-      "description": "Multiplayer interaction and carry system"
     }
+
   ]
 }
